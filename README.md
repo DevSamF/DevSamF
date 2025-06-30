@@ -13,7 +13,7 @@ Sou estudante de Informática na EEEP Francisca Castro de Mesquita, com interess
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:samuel.909014.pok@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samuel-fmartins/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0F6&color:FFF)](https://www.instagram.com/samuelf_martins/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0F6&color:FFF)](https://www.instagram.com/samuelf.martins/)
 
 
 <h3 align="left">My Stack ~</h3>
